@@ -6,5 +6,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0601-human-traffic-of-stadium](https://github.com/oh5221/LeetCode/tree/master/0601-human-traffic-of-stadium) |
 | [1268-market-analysis-i](https://github.com/oh5221/LeetCode/tree/master/1268-market-analysis-i) |
 <!---LeetCode Topics End-->
