@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/human-traffic-of-stadium">601. Human Traffic of Stadium</a></h2><h3>Hard</h3><hr><p>Table: <code>Stadium</code></p>
+<h2><a href="https://leetcode.com/problems/human-traffic-of-stadium/">601. Human Traffic of Stadium</a></h2><h3>Hard</h3><hr><p>Table: <code>Stadium</code></p>
 
 <pre>
 +---------------+---------+
