@@ -15,3 +15,4 @@ FROM PPL
 WHERE people >= 100 AND ((next_ppl >= 100 AND prev_ppl >= 100)
                         OR (next_ppl >= 100 AND nnext_ppl >= 100)
                         OR (prev_ppl >= 100 AND pprev_ppl >= 100))
+ORDER BY visit_date ASC
